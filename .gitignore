@@ -1,0 +1,57 @@
+.idea/
+.node-version
+.php-version
+
+# Package / Dependency / Build Artifacts
+/vendor
+/node_modules
+
+# Media
+/media
+
+# Test/Build Artifacts
+/build
+
+# Magento app/etc - ignore all except Magento base project files
+/app/etc/*.xml
+!/app/etc/config.xml
+!/app/etc/enterprise.xml
+!/app/etc/local.xml.additional
+!/app/etc/local.xml.template
+
+# Magento app/etc/modules
+/app/etc/modules/
+
+# Magento app/code/core
+/app/code/core/
+
+# Magento app/code/community
+/app/code/community/
+
+# Magento app/code/local
+/app/code/local/
+
+# Magento Design adminhtml
+/app/design/adminhtml/
+
+# Magento Design frontend
+/app/design/frontend/
+
+# Magento Locale
+/app/locale/
+
+# Magento Skin
+/skin/
+
+# Assets - JS
+/js/
+
+# lib
+/lib/
+
+# Magento Root Files/Folders
+/shell/
+/tests/
+
+# Magento var/
+/var/
