@@ -37,6 +37,9 @@
 # Magento Design frontend
 /app/design/frontend/
 
+# Magento Design Install theme
+/app/design/install
+
 # Magento Locale
 /app/locale/
 
