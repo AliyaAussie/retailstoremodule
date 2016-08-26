@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "19d85be7e32aa1bc036150b906d45e4e",
-    "content-hash": "b264660c4525a5abed4e0427fe49f8f4",
+    "hash": "2cbfed27054cb301983974f7cf794477",
+    "content-hash": "de48fa9b342d4661663e0f3bde04061c",
     "packages": [
         {
             "name": "ampersand/magento-composer-installer",
@@ -5160,6 +5160,58 @@
                 "url": "https://composer.ampersandweb.co.uk/magento/dist/magento-theme-frontend-enterprise-iphone-v1.14.2.1-533cdb.zip",
                 "reference": "02674bffb911a84fe016c0a11487fde91a5c11f5",
                 "shasum": "dc172e34ba784aae456be811be6e37efd5cecabd"
+            },
+            "require": {
+                "ampersand/magento-composer-installer": "~1.0",
+                "magento/javascript": ">=1.14.2.1,<1.14.2.2"
+            },
+            "type": "magento-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.14.2.1-dev"
+                }
+            },
+            "time": "2015-10-30 11:41:21"
+        },
+        {
+            "name": "magento/theme-frontend-rwd-default",
+            "version": "v1.14.2.1",
+            "source": {
+                "type": "git",
+                "url": "git@bitbucket.org:ampco/magento-theme-frontend-rwd-default.git",
+                "reference": "024d9e6f23d09455ebb752c43a3343154c176e31"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://composer.ampersandweb.co.uk/magento/dist/magento-theme-frontend-rwd-default-v1.14.2.1-46a2fc.zip",
+                "reference": "024d9e6f23d09455ebb752c43a3343154c176e31",
+                "shasum": "2c5a2ae7a26618b886b009b9f2e63275aabd9cbf"
+            },
+            "require": {
+                "ampersand/magento-composer-installer": "~1.0",
+                "magento/javascript": ">=1.14.2.1,<1.14.2.2"
+            },
+            "type": "magento-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-master": "1.14.2.1-dev"
+                }
+            },
+            "time": "2015-10-30 11:41:21"
+        },
+        {
+            "name": "magento/theme-frontend-rwd-enterprise",
+            "version": "v1.14.2.1",
+            "source": {
+                "type": "git",
+                "url": "git@bitbucket.org:ampco/magento-theme-frontend-rwd-enterprise.git",
+                "reference": "2edcd0ab35d7e738fd39febc075f8266bab5e06a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://composer.ampersandweb.co.uk/magento/dist/magento-theme-frontend-rwd-enterprise-v1.14.2.1-e2b5d0.zip",
+                "reference": "2edcd0ab35d7e738fd39febc075f8266bab5e06a",
+                "shasum": "b02f1d1d615c849e304045a7ea9ac03d11bed2bf"
             },
             "require": {
                 "ampersand/magento-composer-installer": "~1.0",

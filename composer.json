@@ -139,6 +139,8 @@
         "magento/theme-frontend-base-default": "1.14.2.1",
         "magento/theme-frontend-enterprise-default": "1.14.2.1",
         "magento/theme-frontend-enterprise-iphone": "1.14.2.1",
+        "magento/theme-frontend-rwd-default": "1.14.2.1",
+        "magento/theme-frontend-rwd-enterprise": "1.14.2.1",
         "magento/theme-install-default-default": "1.14.2.1",
         "magento/theme-install-default-enterprise": "1.14.2.1"
     },
