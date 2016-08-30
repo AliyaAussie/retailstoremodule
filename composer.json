@@ -22,7 +22,6 @@
         "joshdifabio/magento1-composer-bridge": "~1.0",
         "joshdifabio/magento1-module-loader": "~1.0-alpha1",
         "ampersand/magento-composer-installer": "~1.0-dev",
-        "ampersand/magento-installer": "1.16",
         "convenient/setupscriptsdisabler": "~0.1",
 
         "magento/javascript": "1.14.2.1",
@@ -152,32 +151,6 @@
     "extra": {
         "magento-root-dir": "./",
         "magento-force": "override",
-        "magento-deploystrategy": "link",
-        "magento-deploy-ignore": {},
-        "ampersand-magento-composer-installer-ignore": {}
-    },
-    "autoload": {
-        "exclude-from-classmap": [
-            "vendor/magento/module-enterprise-wishlist/Enterprise/Wishlist/controllers/IndexController.php",
-            "vendor/magento/module-adminhtml/Mage/Adminhtml/controllers/AjaxController.php",
-            "vendor/magento/module-adminhtml/Mage/Adminhtml/controllers/IndexController.php",
-            "vendor/magento/module-adminhtml/Mage/Adminhtml/controllers/JsonController.php",
-            "vendor/magento/module-adminhtml/Mage/Adminhtml/controllers/NotificationController.php",
-            "vendor/magento/module-adminhtml/Mage/Adminhtml/controllers/ReportController.php",
-            "vendor/magento/module-adminhtml/Mage/Adminhtml/controllers/TagController.php",
-            "vendor/magento/module-adminhtml/Mage/Adminhtml/controllers/TaxController.php",
-            "vendor/magento/module-checkout/Mage/Checkout/controllers/CartController.php",
-            "vendor/magento/module-checkout/Mage/Checkout/controllers/MultishippingController.php",
-            "vendor/magento/module-checkout/Mage/Checkout/controllers/OnepageController.php",
-            "vendor/magento/module-customer/Mage/Customer/controllers/AccountController.php",
-            "vendor/magento/module-downloadable/Mage/Downloadable/controllers/CustomerController.php",
-            "vendor/magento/module-paypal/Mage/Paypal/controllers/PayflowController.php",
-            "vendor/magento/module-review/Mage/Review/controllers/ProductController.php",
-            "vendor/magento/module-rss/Mage/Rss/controllers/CatalogController.php",
-            "vendor/magento/module-rss/Mage/Rss/controllers/OrderController.php",
-            "vendor/magento/module-sales/Mage/Sales/controllers/DownloadController.php",
-            "vendor/magento/module-paypal/Mage/Paypal/controllers/PayflowadvancedController.php",
-            "vendor/magento/module-sales/Mage/Sales/controllers/DownloadController.php'"
-        ]
+        "magento-deploystrategy": "link"
     }
 }
