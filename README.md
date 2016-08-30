@@ -36,6 +36,11 @@ If you use boxen you might expect a `app/etc/local.xml` to be created but it wil
 
 ## Usage
 
-Use this to play around with magento bugs or sandbox development 
+Use this to play around with magento bugs or sandbox development
 
-**Don't** commit to this repository unless you find a bug in the vanilla magento install.
+If you want to want to keep a record of your hacking on this project then manually create a fork...
+* `git remote remove origin`
+* Create a new repo in your own github account
+* `git remote add origin {ssh link to your github repo}`
+
+If you find a bug in the main install then submit a PR to this repo.
