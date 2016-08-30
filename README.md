@@ -13,10 +13,12 @@ If you use boxen you might expect a `app/etc/local.xml` to be created but it wil
 
 -- THEN --
 
+* Run composer ``
+  * `cd vanilla-decomposed-magento-1-14-2-1`
+  * `composer install`
 * Create database
   * `mysql -uroot -e 'create database vanilla_decomposed_magento_1_14_2_1'`
 * Create writable `media` folder
-  * `cd vanilla-decomposed-magento-1-14-2-1`
   * `mkdir media`
   * `chmod 0777 media`
 * Run install wizard
