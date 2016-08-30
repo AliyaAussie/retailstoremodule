@@ -5,6 +5,7 @@ This repo is a vanill ainstall of magento but has core modules, design, skins, j
 ## Install
 
 * Clone or fork the repo and play around.
+  * Add a project socket and nginx config manually (use boxen if you can't do this)
 
 -- OR --
 
