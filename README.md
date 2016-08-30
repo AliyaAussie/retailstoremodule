@@ -13,6 +13,10 @@ If you use boxen you might expect a `app/etc/local.xml` to be created but it wil
 
 * Create database
   * `mysql -uroot -e 'create database vanilla_decomposed_magento_1_14_2_1'`
+* Create writable `media` folder
+  * `cd vanilla-decomposed-magento-1-14-2-1`
+  * `mkdir media`
+  * `chmod 0777 media`
 * Run install wizard
   * http://vanilla-decomposed-magento-1-14-2-1.dev
   * Fill in the wizard
@@ -20,6 +24,9 @@ If you use boxen you might expect a `app/etc/local.xml` to be created but it wil
     * DB Host - `127.0.0.1:13306`
     * DB User - `root`
     * DB Password - leave blank
+    * Tick the Skip Base URL Validation Before the Next Step option
+  * Create an admin user
+    * Ignore the Encryption Key field
 
 
 ## Usage
