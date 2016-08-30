@@ -13,7 +13,7 @@ If you use boxen you might expect a `app/etc/local.xml` to be created but it wil
 
 -- THEN --
 
-* Run composer ``
+* Run composer
   * `cd vanilla-decomposed-magento-1-14-2-1`
   * `composer install`
 * Create database
