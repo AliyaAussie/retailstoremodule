@@ -12,6 +12,9 @@
 # Test/Build Artifacts
 /build
 
+# Mage.php
+/app/Mage.php
+
 # Magento app/etc - ignore all except Magento base project files
 /app/etc/*.xml
 !/app/etc/config.xml
