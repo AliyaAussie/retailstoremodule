@@ -22,6 +22,9 @@
 !/app/etc/local.xml.additional
 !/app/etc/local.xml.template
 
+# Convenient setup scripts
+/app/etc/modules/Convenient_SetupScriptsDisabler.xml
+
 # Magento app/code/core
 /app/code/core/
 
