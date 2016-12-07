@@ -22,8 +22,8 @@
 !/app/etc/local.xml.additional
 !/app/etc/local.xml.template
 
-# Magento app/etc/modules
-/app/etc/modules/
+# Convenient setup scripts
+/app/etc/modules/Convenient_SetupScriptsDisabler.xml
 
 # Magento app/code/core
 /app/code/core/
@@ -31,14 +31,14 @@
 # Magento app/code/community
 /app/code/community/
 
-# Magento app/code/local
-/app/code/local/
-
 # Magento Design adminhtml
 /app/design/adminhtml/
 
 # Magento Design frontend
-/app/design/frontend/
+/app/design/frontend/*
+!/app/design/frontend/enterprise/
+/app/design/frontend/enterprise/*
+!/app/design/frontend/enterprise/ampersand/
 
 # Magento Design Install theme
 /app/design/install
@@ -47,7 +47,12 @@
 /app/locale/
 
 # Magento Skin
-/skin/
+/skin/*
+!/skin/frontend/
+/skin/frontend/*
+!/skin/frontend/enterprise/
+/skin/frontend/enterprise/*
+!/skin/frontend/enterprise/ampersand/
 
 # Assets - JS
 /js/
