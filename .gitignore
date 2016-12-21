@@ -25,6 +25,9 @@
 # Convenient setup scripts
 /app/etc/modules/Convenient_SetupScriptsDisabler.xml
 
+# Ampersand system module
+/app/etc/modules/Ampersand_System.xml
+
 # Magento app/code/core
 /app/code/core/
 
