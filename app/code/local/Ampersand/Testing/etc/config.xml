@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <Ampersand_Testing>
+            <version>0.0.1</version>
+        </Ampersand_Testing>
+    </modules>
+    <global>
+        <models>
+            <ampersand_testing>
+                <class>Ampersand_Testing_Model</class>
+            </ampersand_testing>
+        </models>
+    </global>
+    <frontend>
+        <events>
+            <controller_action_predispatch>
+                <observers>
+                    <ampersand_testing_front_predispatch>
+                        <class>ampersand_testing/observers_testing</class>
+                        <method>add</method>
+                    </ampersand_testing_front_predispatch>
+                </observers>
+            </controller_action_predispatch>
+        </events>
+    </frontend>
+</config>
