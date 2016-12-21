@@ -1,0 +1,7 @@
+<phpunit backupGlobals="false" bootstrap="tests/vanilla/bootstrapLoader.php" syntaxCheck="true">
+    <testsuites>
+        <testsuite name="Vanilla Modules Unit Test Suite">
+            <directory>tests/vanilla/unit</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
