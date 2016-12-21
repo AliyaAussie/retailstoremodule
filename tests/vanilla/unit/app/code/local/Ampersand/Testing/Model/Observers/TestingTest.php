@@ -18,20 +18,6 @@ class Ampersand_Testing_Model_Observers_TestingTest extends PHPUnit_Framework_Te
     public function setup()
     {
         $this->subject = Mage::getModel('ampersand_testing/observers_testing');
-        /*$this->subject = $this->getMockBuilder('Ampersand_Testing_Model_Observers_Testing')
-            ->setMethods([
-                'getSelf',
-                'add'
-            ])
-            ->getMock();
-
-        $this->subject->expects($this->any())
-            ->method('getSelf')
-            ->will($this->returnSelf());
-
-        $this->subject->expects($this->any())
-            ->method('add')
-            ->will($this->returnValue(3));*/
     }
 
     /**
