@@ -65,7 +65,6 @@
 
 # Magento Root Files/Folders
 /shell/
-/tests/
 
 # Magento var/
 /var/
