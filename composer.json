@@ -145,7 +145,8 @@
     },
     "require-dev" : {
         "phpunit/phpunit" : "~4.2",
-        "ampersand/case-sensitivity-validation": "~0.1"
+        "ampersand/case-sensitivity-validation": "~0.1",
+        "ampersand/magento-developer-mode": "^0.1.1"
     },
     "preferred-install": "dist",
     "extra": {
