@@ -4,8 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "b57ad279ecd35e82e10cd68dd8942479",
-    "content-hash": "73c546b64f68ffaefe414eeff139dd3b",
+    "content-hash": "92b87c83e7adcf183d46cd0f944ee8ae",
     "packages": [
         {
             "name": "ampersand/magento-composer-installer",
@@ -134,7 +133,7 @@
                 "source": "https://github.com/convenient/SetupScriptsDisabler/tree/0.1.4",
                 "issues": "https://github.com/convenient/SetupScriptsDisabler/issues"
             },
-            "time": "2015-04-16 09:00:05"
+            "time": "2015-04-16T09:00:05+00:00"
         },
         {
             "name": "joshdifabio/magento1-composer-bridge",
@@ -175,7 +174,7 @@
                     "email": "joshdifabio@gmail.com"
                 }
             ],
-            "time": "2016-05-11 16:00:08"
+            "time": "2016-05-11T16:00:08+00:00"
         },
         {
             "name": "joshdifabio/magento1-module-loader",
@@ -219,14 +218,14 @@
                 }
             ],
             "description": "Load Magento 1 modules using Composer without copying anything into app/code.",
-            "time": "2015-07-09 10:31:18"
+            "time": "2015-07-09T10:31:18+00:00"
         },
         {
             "name": "magento/javascript",
             "version": "v1.14.2.2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-javascript.git",
+                "url": "git@github.com:AmpersandHQ/magento-javascript.git",
                 "reference": "29db010ae1f5b2b836970c693bb6946255eaf3a2"
             },
             "dist": {
@@ -244,14 +243,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/libs",
             "version": "v1.14.2.2-patch4",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-libs.git",
+                "url": "git@github.com:AmpersandHQ/magento-libs.git",
                 "reference": "87f17f448a15e453d4bb04a8ef7ee41cff5f9653"
             },
             "dist": {
@@ -269,14 +268,14 @@
             "include-path": [
                 ""
             ],
-            "time": "2016-03-01 14:11:07"
+            "time": "2016-03-01T14:11:07+00:00"
         },
         {
             "name": "magento/locale-en-us",
             "version": "v1.14.2.2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-locale-en-us.git",
+                "url": "git@github.com:AmpersandHQ/magento-locale-en-us.git",
                 "reference": "27f63f98a018d78107519219e51cde9379683ae5"
             },
             "dist": {
@@ -294,7 +293,7 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 11:45:50"
+            "time": "2015-10-30T11:45:50+00:00"
         },
         {
             "name": "magento/module-admin",
@@ -302,7 +301,7 @@
             "target-dir": "Mage/Admin",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-admin.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-admin.git",
                 "reference": "c4d60cb718fd29bad469ebef2d328c45bb8bb687"
             },
             "dist": {
@@ -333,7 +332,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:55:19"
+            "time": "2016-01-21T16:55:19+00:00"
         },
         {
             "name": "magento/module-adminhtml",
@@ -341,7 +340,7 @@
             "target-dir": "Mage/Adminhtml",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-adminhtml.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-adminhtml.git",
                 "reference": "51bed5bbc2f3921bd9ab06db23e6bf044e0457d7"
             },
             "dist": {
@@ -412,7 +411,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-03-01 14:11:14"
+            "time": "2016-03-01T14:11:14+00:00"
         },
         {
             "name": "magento/module-adminnotification",
@@ -420,7 +419,7 @@
             "target-dir": "Mage/AdminNotification",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-adminnotification.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-adminnotification.git",
                 "reference": "c21cc834e3ffe55133be2264c1f6b522da2590d9"
             },
             "dist": {
@@ -450,7 +449,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-api",
@@ -458,7 +457,7 @@
             "target-dir": "Mage/Api",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-api.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-api.git",
                 "reference": "3b9ac2d23b17b6cbc64a323ea05adf8d9f6f369d"
             },
             "dist": {
@@ -488,7 +487,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:44"
+            "time": "2015-10-30T16:28:44+00:00"
         },
         {
             "name": "magento/module-api2",
@@ -496,7 +495,7 @@
             "target-dir": "Mage/Api2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-api2.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-api2.git",
                 "reference": "b2ec302a03e35dd8764250fe5229dabb35a9c71d"
             },
             "dist": {
@@ -532,7 +531,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:44"
+            "time": "2015-10-30T16:28:44+00:00"
         },
         {
             "name": "magento/module-authorizenet",
@@ -540,7 +539,7 @@
             "target-dir": "Mage/Authorizenet",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-authorizenet.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-authorizenet.git",
                 "reference": "08eef7d5ea17c3a5b48eb9a09c27ddf86822f136"
             },
             "dist": {
@@ -574,7 +573,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:55:39"
+            "time": "2016-01-21T16:55:39+00:00"
         },
         {
             "name": "magento/module-backup",
@@ -582,7 +581,7 @@
             "target-dir": "Mage/Backup",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-backup.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-backup.git",
                 "reference": "e88f0cf77cfd7e22e69946216d8f6ca53e20efa1"
             },
             "dist": {
@@ -616,7 +615,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-bundle",
@@ -624,7 +623,7 @@
             "target-dir": "Mage/Bundle",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-bundle.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-bundle.git",
                 "reference": "c03eef9a8990803efd46899775419d63434a05d1"
             },
             "dist": {
@@ -664,7 +663,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:44"
+            "time": "2015-10-30T16:28:44+00:00"
         },
         {
             "name": "magento/module-captcha",
@@ -672,7 +671,7 @@
             "target-dir": "Mage/Captcha",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-captcha.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-captcha.git",
                 "reference": "c644690f277651cadbf4a2dc4e9bf20e3115899d"
             },
             "dist": {
@@ -705,7 +704,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:55:48"
+            "time": "2016-01-21T16:55:48+00:00"
         },
         {
             "name": "magento/module-catalog",
@@ -713,7 +712,7 @@
             "target-dir": "Mage/Catalog",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-catalog.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-catalog.git",
                 "reference": "af3a50db67ebbc9f1c8f3b898a7e20b4f99267e0"
             },
             "dist": {
@@ -768,7 +767,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:55:56"
+            "time": "2016-01-21T16:55:56+00:00"
         },
         {
             "name": "magento/module-catalogindex",
@@ -776,7 +775,7 @@
             "target-dir": "Mage/CatalogIndex",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-catalogindex.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-catalogindex.git",
                 "reference": "668314ddede2cec045efb1e04f432b43b4101c4f"
             },
             "dist": {
@@ -811,7 +810,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:56:10"
+            "time": "2016-01-21T16:56:10+00:00"
         },
         {
             "name": "magento/module-cataloginventory",
@@ -819,7 +818,7 @@
             "target-dir": "Mage/CatalogInventory",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-cataloginventory.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-cataloginventory.git",
                 "reference": "1cbce2ea081313d574e1ebcc9f572704c4941fde"
             },
             "dist": {
@@ -851,7 +850,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:56:28"
+            "time": "2016-01-21T16:56:28+00:00"
         },
         {
             "name": "magento/module-catalogrule",
@@ -859,7 +858,7 @@
             "target-dir": "Mage/CatalogRule",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-catalogrule.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-catalogrule.git",
                 "reference": "b6ba409ee6c929cebb127f9cc98d0a87b175ee8c"
             },
             "dist": {
@@ -894,7 +893,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-catalogsearch",
@@ -902,7 +901,7 @@
             "target-dir": "Mage/CatalogSearch",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-catalogsearch.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-catalogsearch.git",
                 "reference": "07dc49894f0eea81a6b12afb841003ffbe592cf2"
             },
             "dist": {
@@ -939,7 +938,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-centinel",
@@ -947,7 +946,7 @@
             "target-dir": "Mage/Centinel",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-centinel.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-centinel.git",
                 "reference": "fc7bae28f1a75d0a4a7636d7c33c9dc1b491cafd"
             },
             "dist": {
@@ -980,7 +979,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-checkout",
@@ -988,7 +987,7 @@
             "target-dir": "Mage/Checkout",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-checkout.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-checkout.git",
                 "reference": "329840cf18f56022308d9f806c96da8cad615be4"
             },
             "dist": {
@@ -1031,7 +1030,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:56:37"
+            "time": "2016-01-21T16:56:37+00:00"
         },
         {
             "name": "magento/module-cms",
@@ -1039,7 +1038,7 @@
             "target-dir": "Mage/Cms",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-cms.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-cms.git",
                 "reference": "a9670708b4a4967185ad0ee7c1f55797c5d881fd"
             },
             "dist": {
@@ -1077,7 +1076,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-compiler",
@@ -1085,7 +1084,7 @@
             "target-dir": "Mage/Compiler",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-compiler.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-compiler.git",
                 "reference": "d81ee2aa734a46400dd5d67a7e01f7b631b76796"
             },
             "dist": {
@@ -1115,7 +1114,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 17:17:17"
+            "time": "2015-10-30T17:17:17+00:00"
         },
         {
             "name": "magento/module-configurableswatches",
@@ -1123,7 +1122,7 @@
             "target-dir": "Mage/ConfigurableSwatches",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-configurableswatches.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-configurableswatches.git",
                 "reference": "802d8b3ceded5548ce97bffcdc39e8632372538a"
             },
             "dist": {
@@ -1156,7 +1155,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-connect",
@@ -1164,7 +1163,7 @@
             "target-dir": "Mage/Connect",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-connect.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-connect.git",
                 "reference": "253b24eedffaec615ab15fcf944869de54ebd3e7"
             },
             "dist": {
@@ -1195,7 +1194,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-contacts",
@@ -1203,7 +1202,7 @@
             "target-dir": "Mage/Contacts",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-contacts.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-contacts.git",
                 "reference": "19873942581190a1ee13b8964f3d10ae2b121fb7"
             },
             "dist": {
@@ -1235,7 +1234,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-core",
@@ -1243,7 +1242,7 @@
             "target-dir": "Mage/Core",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-core.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-core.git",
                 "reference": "9751250cf6e9240575fe4207fba1ac8077607ae5"
             },
             "dist": {
@@ -1291,7 +1290,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-03-01 14:11:18"
+            "time": "2016-03-01T14:11:18+00:00"
         },
         {
             "name": "magento/module-cron",
@@ -1299,7 +1298,7 @@
             "target-dir": "Mage/Cron",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-cron.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-cron.git",
                 "reference": "3647bbd83322cdced70dddaf99b6c3b420ecee52"
             },
             "dist": {
@@ -1327,7 +1326,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-currencysymbol",
@@ -1335,7 +1334,7 @@
             "target-dir": "Mage/CurrencySymbol",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-currencysymbol.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-currencysymbol.git",
                 "reference": "fa23bb4a0fde62c1f642ee4878413eca4fae2387"
             },
             "dist": {
@@ -1367,7 +1366,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-customer",
@@ -1375,7 +1374,7 @@
             "target-dir": "Mage/Customer",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-customer.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-customer.git",
                 "reference": "00406acf78358caf7edb272349bd30e2cca3ac42"
             },
             "dist": {
@@ -1420,7 +1419,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:56:54"
+            "time": "2016-01-21T16:56:54+00:00"
         },
         {
             "name": "magento/module-dataflow",
@@ -1428,7 +1427,7 @@
             "target-dir": "Mage/Dataflow",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-dataflow.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-dataflow.git",
                 "reference": "6cdb2ed52fedcbaae54c4407845a5ff67a6fa8fd"
             },
             "dist": {
@@ -1462,7 +1461,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:57:00"
+            "time": "2016-01-21T16:57:00+00:00"
         },
         {
             "name": "magento/module-directory",
@@ -1470,7 +1469,7 @@
             "target-dir": "Mage/Directory",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-directory.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-directory.git",
                 "reference": "6fb80661f52b1fef06a22f88f0f47121e5bea599"
             },
             "dist": {
@@ -1500,7 +1499,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-downloadable",
@@ -1508,7 +1507,7 @@
             "target-dir": "Mage/Downloadable",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-downloadable.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-downloadable.git",
                 "reference": "12c7e2913ad797260328a78ac7b31eb5c5495b7e"
             },
             "dist": {
@@ -1550,7 +1549,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:57:19"
+            "time": "2016-01-21T16:57:19+00:00"
         },
         {
             "name": "magento/module-eav",
@@ -1558,7 +1557,7 @@
             "target-dir": "Mage/Eav",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-eav.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-eav.git",
                 "reference": "4d800516270e0a3a36ca05d115a90e9736d68d10"
             },
             "dist": {
@@ -1591,7 +1590,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-enterprise-admingws",
@@ -1599,7 +1598,7 @@
             "target-dir": "Enterprise/AdminGws",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-admingws.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-admingws.git",
                 "reference": "ced30e769b4d0a062f20aecbfec611ed53a3f260"
             },
             "dist": {
@@ -1644,7 +1643,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-enterprise-banner",
@@ -1652,7 +1651,7 @@
             "target-dir": "Enterprise/Banner",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-banner.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-banner.git",
                 "reference": "9acd0c2bd614a04591dff9efeed3d50aba3532c0"
             },
             "dist": {
@@ -1692,7 +1691,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-enterprise-bundle",
@@ -1700,7 +1699,7 @@
             "target-dir": "Enterprise/Bundle",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-bundle.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-bundle.git",
                 "reference": "87bee0c45fcf608bfdb7b75e40724276f73ac4ae"
             },
             "dist": {
@@ -1727,7 +1726,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-catalog",
@@ -1735,7 +1734,7 @@
             "target-dir": "Enterprise/Catalog",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-catalog.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-catalog.git",
                 "reference": "2dfc9610b0aed6bfb8282479ebc93915f29b983b"
             },
             "dist": {
@@ -1776,7 +1775,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-enterprise-catalogevent",
@@ -1784,7 +1783,7 @@
             "target-dir": "Enterprise/CatalogEvent",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-catalogevent.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-catalogevent.git",
                 "reference": "06d17ad2eea0ac6f725409a7ecc69a4e6449009e"
             },
             "dist": {
@@ -1822,7 +1821,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-cataloginventory",
@@ -1830,7 +1829,7 @@
             "target-dir": "Enterprise/CatalogInventory",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-cataloginventory.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-cataloginventory.git",
                 "reference": "7de50f01b38ba3d3365313e23359602134dd6d12"
             },
             "dist": {
@@ -1862,7 +1861,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/module-enterprise-catalogpermissions",
@@ -1870,7 +1869,7 @@
             "target-dir": "Enterprise/CatalogPermissions",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-catalogpermissions.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-catalogpermissions.git",
                 "reference": "7f59dffad64191daade7c6f0955a76807ce07e62"
             },
             "dist": {
@@ -1907,7 +1906,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/module-enterprise-catalogsearch",
@@ -1915,7 +1914,7 @@
             "target-dir": "Enterprise/CatalogSearch",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-catalogsearch.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-catalogsearch.git",
                 "reference": "eb5ac893c400fbfd07bc3c48a293f70a7d71f367"
             },
             "dist": {
@@ -1951,7 +1950,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/module-enterprise-checkout",
@@ -1959,7 +1958,7 @@
             "target-dir": "Enterprise/Checkout",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-checkout.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-checkout.git",
                 "reference": "618bc0297cc11908910aed6e12d5abf18667b26a"
             },
             "dist": {
@@ -2003,7 +2002,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:57:35"
+            "time": "2016-01-21T16:57:35+00:00"
         },
         {
             "name": "magento/module-enterprise-cms",
@@ -2011,7 +2010,7 @@
             "target-dir": "Enterprise/Cms",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-cms.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-cms.git",
                 "reference": "9539c3735be97f317ff859ee54ce31fc40267dd3"
             },
             "dist": {
@@ -2045,7 +2044,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-enterprise-customer",
@@ -2053,7 +2052,7 @@
             "target-dir": "Enterprise/Customer",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-customer.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-customer.git",
                 "reference": "4111764e56856b2c18d5392567a39fe8da8e8099"
             },
             "dist": {
@@ -2088,7 +2087,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-customerbalance",
@@ -2096,7 +2095,7 @@
             "target-dir": "Enterprise/CustomerBalance",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-customerbalance.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-customerbalance.git",
                 "reference": "dcfc0a7dd30682e535a8357fe22cdd4fc5aba5d9"
             },
             "dist": {
@@ -2133,7 +2132,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-customersegment",
@@ -2141,7 +2140,7 @@
             "target-dir": "Enterprise/CustomerSegment",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-customersegment.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-customersegment.git",
                 "reference": "1cd558dfce2782a60c0c02e69ed21bf74b4d8c4f"
             },
             "dist": {
@@ -2186,7 +2185,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-eav",
@@ -2194,7 +2193,7 @@
             "target-dir": "Enterprise/Eav",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-eav.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-eav.git",
                 "reference": "94ebe070aee07cedc25171af70a8ef6199c6a28d"
             },
             "dist": {
@@ -2224,7 +2223,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-enterprise",
@@ -2232,7 +2231,7 @@
             "target-dir": "Enterprise/Enterprise",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-enterprise.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-enterprise.git",
                 "reference": "f601279bf962016decfd40695970902bb82bf845"
             },
             "dist": {
@@ -2264,7 +2263,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-giftcard",
@@ -2272,7 +2271,7 @@
             "target-dir": "Enterprise/GiftCard",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-giftcard.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-giftcard.git",
                 "reference": "fdb86fa3ea7e06e192286221bbe91807d28651b5"
             },
             "dist": {
@@ -2312,7 +2311,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-giftcardaccount",
@@ -2320,7 +2319,7 @@
             "target-dir": "Enterprise/GiftCardAccount",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-giftcardaccount.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-giftcardaccount.git",
                 "reference": "a0ca3dfc7211d40322da660ac7df28173a7ba1ee"
             },
             "dist": {
@@ -2358,7 +2357,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-giftregistry",
@@ -2366,7 +2365,7 @@
             "target-dir": "Enterprise/GiftRegistry",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-giftregistry.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-giftregistry.git",
                 "reference": "c6303f2843ab8b65deef8091de53c85d9d1e7fe6"
             },
             "dist": {
@@ -2410,7 +2409,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-giftwrapping",
@@ -2418,7 +2417,7 @@
             "target-dir": "Enterprise/GiftWrapping",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-giftwrapping.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-giftwrapping.git",
                 "reference": "c04e3140e0770755333cb5ae0acd860626aff66a"
             },
             "dist": {
@@ -2457,7 +2456,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-importexport",
@@ -2465,7 +2464,7 @@
             "target-dir": "Enterprise/ImportExport",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-importexport.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-importexport.git",
                 "reference": "029215a0338214677ac3171423e715158d754000"
             },
             "dist": {
@@ -2500,7 +2499,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-enterprise-index",
@@ -2508,7 +2507,7 @@
             "target-dir": "Enterprise/Index",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-index.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-index.git",
                 "reference": "c49f7b999fe21fafa54d5908b7be270a9dcdeaab"
             },
             "dist": {
@@ -2543,7 +2542,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/module-enterprise-invitation",
@@ -2551,7 +2550,7 @@
             "target-dir": "Enterprise/Invitation",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-invitation.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-invitation.git",
                 "reference": "3d537e94b5d3a322faa9ca6b8c41b98290494039"
             },
             "dist": {
@@ -2587,7 +2586,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 17:17:17"
+            "time": "2015-10-30T17:17:17+00:00"
         },
         {
             "name": "magento/module-enterprise-license",
@@ -2595,7 +2594,7 @@
             "target-dir": "Enterprise/License",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-license.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-license.git",
                 "reference": "3d6033498c2e0eb29e4f6f556cc5677bb75bff7e"
             },
             "dist": {
@@ -2624,7 +2623,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/module-enterprise-logging",
@@ -2632,7 +2631,7 @@
             "target-dir": "Enterprise/Logging",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-logging.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-logging.git",
                 "reference": "0658468fd0d3c2c627575b4de8ee4a4b3e18f334"
             },
             "dist": {
@@ -2669,7 +2668,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-enterprise-mview",
@@ -2677,7 +2676,7 @@
             "target-dir": "Enterprise/Mview",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-mview.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-mview.git",
                 "reference": "e1d57c39be9b644ca13dbc1349b295ba95a2374c"
             },
             "dist": {
@@ -2705,7 +2704,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-pagecache",
@@ -2713,7 +2712,7 @@
             "target-dir": "Enterprise/PageCache",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-pagecache.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-pagecache.git",
                 "reference": "6087950ce0bc4181ebbf155345cf5eedde3f1111"
             },
             "dist": {
@@ -2755,7 +2754,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:57:56"
+            "time": "2016-01-21T16:57:56+00:00"
         },
         {
             "name": "magento/module-enterprise-pbridge",
@@ -2763,7 +2762,7 @@
             "target-dir": "Enterprise/Pbridge",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-pbridge.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-pbridge.git",
                 "reference": "402286f391c2a1f9521baff2cbd7f783544510d6"
             },
             "dist": {
@@ -2804,7 +2803,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:58:03"
+            "time": "2016-01-21T16:58:03+00:00"
         },
         {
             "name": "magento/module-enterprise-pci",
@@ -2812,7 +2811,7 @@
             "target-dir": "Enterprise/Pci",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-pci.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-pci.git",
                 "reference": "e8379d1845d9bb629aa96b4e732be4dd165dd3db"
             },
             "dist": {
@@ -2846,7 +2845,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:58:17"
+            "time": "2016-01-21T16:58:17+00:00"
         },
         {
             "name": "magento/module-enterprise-persistent",
@@ -2854,7 +2853,7 @@
             "target-dir": "Enterprise/Persistent",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-persistent.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-persistent.git",
                 "reference": "ac243abdb1f44ce35a69bf911e8c5d1801097d5d"
             },
             "dist": {
@@ -2888,7 +2887,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:58:23"
+            "time": "2016-01-21T16:58:23+00:00"
         },
         {
             "name": "magento/module-enterprise-pricepermissions",
@@ -2896,7 +2895,7 @@
             "target-dir": "Enterprise/PricePermissions",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-pricepermissions.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-pricepermissions.git",
                 "reference": "8629821c1d9c7ec8949ae69f1aec4507a5520d05"
             },
             "dist": {
@@ -2930,7 +2929,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-promotionpermissions",
@@ -2938,7 +2937,7 @@
             "target-dir": "Enterprise/PromotionPermissions",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-promotionpermissions.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-promotionpermissions.git",
                 "reference": "5bd98e49a46abcf39619429d6381e6efcb75e23b"
             },
             "dist": {
@@ -2969,7 +2968,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-enterprise-reminder",
@@ -2977,7 +2976,7 @@
             "target-dir": "Enterprise/Reminder",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-reminder.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-reminder.git",
                 "reference": "e32a13d90ae6e48ea788e36bf6f9125d3fb68947"
             },
             "dist": {
@@ -3017,7 +3016,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-reward",
@@ -3025,7 +3024,7 @@
             "target-dir": "Enterprise/Reward",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-reward.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-reward.git",
                 "reference": "dda0039069729fafd85b48882eac17a29c0a9e94"
             },
             "dist": {
@@ -3068,7 +3067,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-rma",
@@ -3076,7 +3075,7 @@
             "target-dir": "Enterprise/Rma",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-rma.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-rma.git",
                 "reference": "b51fb1c9c5cab4007265bacc6008c88bb5e92368"
             },
             "dist": {
@@ -3120,7 +3119,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-enterprise-salesarchive",
@@ -3128,7 +3127,7 @@
             "target-dir": "Enterprise/SalesArchive",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-salesarchive.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-salesarchive.git",
                 "reference": "3b1fcec25dec75d3125a1d14228804d38434d228"
             },
             "dist": {
@@ -3161,7 +3160,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:58:30"
+            "time": "2016-01-21T16:58:30+00:00"
         },
         {
             "name": "magento/module-enterprise-search",
@@ -3169,7 +3168,7 @@
             "target-dir": "Enterprise/Search",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-search.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-search.git",
                 "reference": "be2716d19020d8746d35e94d1cb09539e4c1df49"
             },
             "dist": {
@@ -3209,7 +3208,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-enterprise-staging",
@@ -3217,7 +3216,7 @@
             "target-dir": "Enterprise/Staging",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-staging.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-staging.git",
                 "reference": "f09cab04c519ae7b13b3e2d8f3e2320c1a947fc7"
             },
             "dist": {
@@ -3260,7 +3259,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 17:17:17"
+            "time": "2015-10-30T17:17:17+00:00"
         },
         {
             "name": "magento/module-enterprise-targetrule",
@@ -3268,7 +3267,7 @@
             "target-dir": "Enterprise/TargetRule",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-targetrule.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-targetrule.git",
                 "reference": "4207fc4f1c93cf1b3a8d21b131a02cd9601fd3f9"
             },
             "dist": {
@@ -3306,7 +3305,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/module-enterprise-urlrewrite",
@@ -3314,7 +3313,7 @@
             "target-dir": "Enterprise/UrlRewrite",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-urlrewrite.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-urlrewrite.git",
                 "reference": "1ab68d981a0c566b5f6b3f06c1941162afe802f5"
             },
             "dist": {
@@ -3349,7 +3348,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/module-enterprise-websiterestriction",
@@ -3357,7 +3356,7 @@
             "target-dir": "Enterprise/WebsiteRestriction",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-websiterestriction.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-websiterestriction.git",
                 "reference": "69e763ccce5b726d202fe80b61568b5cc0c3adaf"
             },
             "dist": {
@@ -3389,7 +3388,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:58:39"
+            "time": "2016-01-21T16:58:39+00:00"
         },
         {
             "name": "magento/module-enterprise-wishlist",
@@ -3397,7 +3396,7 @@
             "target-dir": "Enterprise/Wishlist",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-enterprise-wishlist.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-enterprise-wishlist.git",
                 "reference": "2d4380694588f13943c454c8e63492f1d11e70c2"
             },
             "dist": {
@@ -3436,7 +3435,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-giftmessage",
@@ -3444,7 +3443,7 @@
             "target-dir": "Mage/GiftMessage",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-giftmessage.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-giftmessage.git",
                 "reference": "0a73abfa122d93e63b1924288eaec71c0681d15f"
             },
             "dist": {
@@ -3478,7 +3477,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:50"
+            "time": "2015-10-30T11:45:50+00:00"
         },
         {
             "name": "magento/module-googleanalytics",
@@ -3486,7 +3485,7 @@
             "target-dir": "Mage/GoogleAnalytics",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-googleanalytics.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-googleanalytics.git",
                 "reference": "02acc561b6475bfbab84acde84a518841adcd8f5"
             },
             "dist": {
@@ -3516,7 +3515,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-googlecheckout",
@@ -3524,7 +3523,7 @@
             "target-dir": "Mage/GoogleCheckout",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-googlecheckout.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-googlecheckout.git",
                 "reference": "f36e504fa145ceb494b941924cf6ea173e480a0b"
             },
             "dist": {
@@ -3553,7 +3552,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-importexport",
@@ -3561,7 +3560,7 @@
             "target-dir": "Mage/ImportExport",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-importexport.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-importexport.git",
                 "reference": "a9e71a3c9dc3468e34a9308d474d5d12d1018429"
             },
             "dist": {
@@ -3598,7 +3597,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-05-23 11:00:12"
+            "time": "2016-05-23T11:00:12+00:00"
         },
         {
             "name": "magento/module-index",
@@ -3606,7 +3605,7 @@
             "target-dir": "Mage/Index",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-index.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-index.git",
                 "reference": "135448a44b324ed5e1445498decd9857fc37b3a0"
             },
             "dist": {
@@ -3637,7 +3636,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-install",
@@ -3645,7 +3644,7 @@
             "target-dir": "Mage/Install",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-install.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-install.git",
                 "reference": "ed422b39a978acc7a9d22a134136ea46e37b4d0a"
             },
             "dist": {
@@ -3678,7 +3677,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 17:06:08"
+            "time": "2015-10-30T17:06:08+00:00"
         },
         {
             "name": "magento/module-log",
@@ -3686,7 +3685,7 @@
             "target-dir": "Mage/Log",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-log.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-log.git",
                 "reference": "bf0acbadf252a3396534c02396e42fcb0c418532"
             },
             "dist": {
@@ -3716,7 +3715,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-media",
@@ -3724,7 +3723,7 @@
             "target-dir": "Mage/Media",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-media.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-media.git",
                 "reference": "b83a5e36a11a32415159e4103ea9a093fdb0585f"
             },
             "dist": {
@@ -3752,7 +3751,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-newsletter",
@@ -3760,7 +3759,7 @@
             "target-dir": "Mage/Newsletter",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-newsletter.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-newsletter.git",
                 "reference": "1ef882239b6aca7f643248f2c890c1add4e4e231"
             },
             "dist": {
@@ -3792,7 +3791,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:58:51"
+            "time": "2016-01-21T16:58:51+00:00"
         },
         {
             "name": "magento/module-oauth",
@@ -3800,7 +3799,7 @@
             "target-dir": "Mage/Oauth",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-oauth.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-oauth.git",
                 "reference": "17634b9bb58b9f1b63390e994b60a8b20efd981c"
             },
             "dist": {
@@ -3833,7 +3832,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-ogone",
@@ -3841,7 +3840,7 @@
             "target-dir": "Mage/Ogone",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-ogone.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-ogone.git",
                 "reference": "6405d6b26c39351c3cacb2ca170caa55439a6a8e"
             },
             "dist": {
@@ -3872,7 +3871,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-page",
@@ -3880,7 +3879,7 @@
             "target-dir": "Mage/Page",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-page.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-page.git",
                 "reference": "3bc2a9152ec447dfa7ce05f1a6505a85b4aa9a3e"
             },
             "dist": {
@@ -3915,7 +3914,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:58:57"
+            "time": "2016-01-21T16:58:57+00:00"
         },
         {
             "name": "magento/module-paygate",
@@ -3923,7 +3922,7 @@
             "target-dir": "Mage/Paygate",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-paygate.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-paygate.git",
                 "reference": "a1544ced7bfce9591e435fba9cc650ef4abde89a"
             },
             "dist": {
@@ -3957,7 +3956,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-payment",
@@ -3965,7 +3964,7 @@
             "target-dir": "Mage/Payment",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-payment.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-payment.git",
                 "reference": "dc3edf9a69a82f15e5a7b8ce1dc73896553c37aa"
             },
             "dist": {
@@ -3995,7 +3994,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-paypal",
@@ -4003,7 +4002,7 @@
             "target-dir": "Mage/Paypal",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-paypal.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-paypal.git",
                 "reference": "23fb31339c697a2ccd12fb5feb59140a8fcb3627"
             },
             "dist": {
@@ -4042,7 +4041,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:59:08"
+            "time": "2016-01-21T16:59:08+00:00"
         },
         {
             "name": "magento/module-paypaluk",
@@ -4050,7 +4049,7 @@
             "target-dir": "Mage/PaypalUk",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-paypaluk.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-paypaluk.git",
                 "reference": "f8a9f99a84162283fb09a01d15fb6d7939fb9c0f"
             },
             "dist": {
@@ -4082,7 +4081,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-persistent",
@@ -4090,7 +4089,7 @@
             "target-dir": "Mage/Persistent",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-persistent.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-persistent.git",
                 "reference": "b6045e29c6525403c0e66d463abf73e198748f5b"
             },
             "dist": {
@@ -4122,7 +4121,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:59:25"
+            "time": "2016-01-21T16:59:25+00:00"
         },
         {
             "name": "magento/module-poll",
@@ -4130,7 +4129,7 @@
             "target-dir": "Mage/Poll",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-poll.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-poll.git",
                 "reference": "1130740d96d2a5054622a66b107c0688e85d0661"
             },
             "dist": {
@@ -4160,7 +4159,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-productalert",
@@ -4168,7 +4167,7 @@
             "target-dir": "Mage/ProductAlert",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-productalert.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-productalert.git",
                 "reference": "1fb764b7ee63d8c20497f6fc1de0b272b62b9ecf"
             },
             "dist": {
@@ -4199,7 +4198,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-rating",
@@ -4207,7 +4206,7 @@
             "target-dir": "Mage/Rating",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-rating.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-rating.git",
                 "reference": "bdc3207c7766f296251282542a2f361b83e82ea8"
             },
             "dist": {
@@ -4237,7 +4236,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-reports",
@@ -4245,7 +4244,7 @@
             "target-dir": "Mage/Reports",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-reports.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-reports.git",
                 "reference": "c687b6402e7748a6c475256fb77d49e3e3a152ae"
             },
             "dist": {
@@ -4289,7 +4288,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-review",
@@ -4297,7 +4296,7 @@
             "target-dir": "Mage/Review",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-review.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-review.git",
                 "reference": "d326c8f024fab6e206e4ef237ad9e6c24a3e25c3"
             },
             "dist": {
@@ -4330,7 +4329,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:59:30"
+            "time": "2016-01-21T16:59:30+00:00"
         },
         {
             "name": "magento/module-rss",
@@ -4338,7 +4337,7 @@
             "target-dir": "Mage/Rss",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-rss.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-rss.git",
                 "reference": "6afb1619052e0c486762a7261aeb60724f1705e5"
             },
             "dist": {
@@ -4377,7 +4376,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-01-21 16:59:34"
+            "time": "2016-01-21T16:59:34+00:00"
         },
         {
             "name": "magento/module-rule",
@@ -4385,7 +4384,7 @@
             "target-dir": "Mage/Rule",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-rule.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-rule.git",
                 "reference": "198c2955a91fe5c2cca12cd8fbb8f42e856d61df"
             },
             "dist": {
@@ -4417,7 +4416,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-sales",
@@ -4425,7 +4424,7 @@
             "target-dir": "Mage/Sales",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-sales.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-sales.git",
                 "reference": "d4822eebd9ba10232231bea1c3731b5fd85347ff"
             },
             "dist": {
@@ -4475,7 +4474,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2016-03-01 14:11:22"
+            "time": "2016-03-01T14:11:22+00:00"
         },
         {
             "name": "magento/module-salesrule",
@@ -4483,7 +4482,7 @@
             "target-dir": "Mage/SalesRule",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-salesrule.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-salesrule.git",
                 "reference": "4563a28332d76a6f989f1008503794fd3d249735"
             },
             "dist": {
@@ -4520,7 +4519,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-sendfriend",
@@ -4528,7 +4527,7 @@
             "target-dir": "Mage/Sendfriend",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-sendfriend.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-sendfriend.git",
                 "reference": "066aec72bd3d95462b71af247a8cdfdfa3522c1e"
             },
             "dist": {
@@ -4558,7 +4557,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-shipping",
@@ -4566,7 +4565,7 @@
             "target-dir": "Mage/Shipping",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-shipping.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-shipping.git",
                 "reference": "12fb79c6c4b12e3e09db703292e1e7e6480c5781"
             },
             "dist": {
@@ -4599,7 +4598,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-sitemap",
@@ -4607,7 +4606,7 @@
             "target-dir": "Mage/Sitemap",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-sitemap.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-sitemap.git",
                 "reference": "87c26556a16e8ef15875c3befaab56a3de680f12"
             },
             "dist": {
@@ -4638,7 +4637,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-tag",
@@ -4646,7 +4645,7 @@
             "target-dir": "Mage/Tag",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-tag.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-tag.git",
                 "reference": "e94ba80bf4b8c1f2ce71ee00ee4d9fe3f9309452"
             },
             "dist": {
@@ -4682,7 +4681,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-tax",
@@ -4690,7 +4689,7 @@
             "target-dir": "Mage/Tax",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-tax.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-tax.git",
                 "reference": "87f730748957198fcfb9939bc42393df5b90ad48"
             },
             "dist": {
@@ -4730,7 +4729,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-usa",
@@ -4738,7 +4737,7 @@
             "target-dir": "Mage/Usa",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-usa.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-usa.git",
                 "reference": "4ad33085a712c8dc34d3b273c5bf5076f3970b38"
             },
             "dist": {
@@ -4772,7 +4771,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:48"
+            "time": "2015-10-30T11:45:48+00:00"
         },
         {
             "name": "magento/module-weee",
@@ -4780,7 +4779,7 @@
             "target-dir": "Mage/Weee",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-weee.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-weee.git",
                 "reference": "2d4e867c8736bceac964e48cb3660ff50821dcfc"
             },
             "dist": {
@@ -4818,7 +4817,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-widget",
@@ -4826,7 +4825,7 @@
             "target-dir": "Mage/Widget",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-widget.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-widget.git",
                 "reference": "25b49b0a18f86bc1cde03e3d9ba1806538558add"
             },
             "dist": {
@@ -4859,7 +4858,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/module-wishlist",
@@ -4867,7 +4866,7 @@
             "target-dir": "Mage/Wishlist",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-wishlist.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-wishlist.git",
                 "reference": "780fce72f4ea94be667b2ef653b356efc6b3f9bc"
             },
             "dist": {
@@ -4903,7 +4902,7 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/module-xmlconnect",
@@ -4911,7 +4910,7 @@
             "target-dir": "Mage/XmlConnect",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-module-xmlconnect.git",
+                "url": "git@github.com:AmpersandHQ/magento-module-xmlconnect.git",
                 "reference": "ccf90b3f42a7c29139ac1d04148e45f197dc4a5e"
             },
             "dist": {
@@ -4977,14 +4976,14 @@
                     "bootstrap.php"
                 ]
             },
-            "time": "2015-10-30 11:45:49"
+            "time": "2015-10-30T11:45:49+00:00"
         },
         {
             "name": "magento/shell",
             "version": "v1.14.2.2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-shell.git",
+                "url": "git@github.com:AmpersandHQ/magento-shell.git",
                 "reference": "6a7563a73bad9143539370ae8a37da6ca9414ccd"
             },
             "dist": {
@@ -5013,14 +5012,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 11:45:47"
+            "time": "2015-10-30T11:45:47+00:00"
         },
         {
             "name": "magento/theme-adminhtml-default-default",
             "version": "v1.14.2.2-patch1",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-adminhtml-default-default.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-adminhtml-default-default.git",
                 "reference": "59e3a3e5769c9d25648f28f483fe78a06bbb4265"
             },
             "dist": {
@@ -5039,14 +5038,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2016-01-21 16:59:51"
+            "time": "2016-01-21T16:59:51+00:00"
         },
         {
             "name": "magento/theme-adminhtml-default-enterprise",
             "version": "v1.14.2.2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-adminhtml-default-enterprise.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-adminhtml-default-enterprise.git",
                 "reference": "23163cfd51a1aa9d9d460d2e7b84320c5ebb711f"
             },
             "dist": {
@@ -5065,14 +5064,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 11:45:50"
+            "time": "2015-10-30T11:45:50+00:00"
         },
         {
             "name": "magento/theme-frontend-base-default",
             "version": "v1.14.2.2-patch2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-frontend-base-default.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-frontend-base-default.git",
                 "reference": "b51e663d08f26e362dc3c4f03a31c1b8aac9f26d"
             },
             "dist": {
@@ -5091,14 +5090,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2016-01-21 17:00:00"
+            "time": "2016-01-21T17:00:00+00:00"
         },
         {
             "name": "magento/theme-frontend-enterprise-default",
             "version": "v1.14.2.2-patch1",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-frontend-enterprise-default.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-frontend-enterprise-default.git",
                 "reference": "ce4ed91623c1ba2d0b744eb6c49207bcf71ad693"
             },
             "dist": {
@@ -5117,14 +5116,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/theme-frontend-enterprise-iphone",
             "version": "v1.14.2.2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-frontend-enterprise-iphone.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-frontend-enterprise-iphone.git",
                 "reference": "0a7f87ea3f6b934877694dd4d7c587de133adfa6"
             },
             "dist": {
@@ -5143,14 +5142,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 11:45:50"
+            "time": "2015-10-30T11:45:50+00:00"
         },
         {
             "name": "magento/theme-frontend-rwd-default",
             "version": "v1.14.2.2-patch1",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-frontend-rwd-default.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-frontend-rwd-default.git",
                 "reference": "8f9a08ee5a481f5102d60c151bd880b4daca67c6"
             },
             "dist": {
@@ -5169,14 +5168,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/theme-frontend-rwd-enterprise",
             "version": "v1.14.2.2-patch1",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-frontend-rwd-enterprise.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-frontend-rwd-enterprise.git",
                 "reference": "f7b6ae63daac5aa9d308e3c8086ce07cd79e2e0f"
             },
             "dist": {
@@ -5195,14 +5194,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 16:28:45"
+            "time": "2015-10-30T16:28:45+00:00"
         },
         {
             "name": "magento/theme-install-default-default",
             "version": "v1.14.2.2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-install-default-default.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-install-default-default.git",
                 "reference": "446e7d604cfa1d3bf9986ec5245d7c3db2214e1b"
             },
             "dist": {
@@ -5221,14 +5220,14 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 11:45:50"
+            "time": "2015-10-30T11:45:50+00:00"
         },
         {
             "name": "magento/theme-install-default-enterprise",
             "version": "v1.14.2.2",
             "source": {
                 "type": "git",
-                "url": "git@bitbucket.org:ampco/magento-theme-install-default-enterprise.git",
+                "url": "git@github.com:AmpersandHQ/magento-theme-install-default-enterprise.git",
                 "reference": "05d978ba9c5d9afbd4e449c7cbb9c4b2278f582c"
             },
             "dist": {
@@ -5247,7 +5246,7 @@
                     "dev-master": "1.14.2.2-dev"
                 }
             },
-            "time": "2015-10-30 11:45:50"
+            "time": "2015-10-30T11:45:50+00:00"
         }
     ],
     "packages-dev": [
@@ -5277,7 +5276,33 @@
                 ]
             },
             "description": "Small utility to force validation of filenames with case sensitivity. Useful for use on case insensitive file systems.",
-            "time": "2016-03-22 10:58:23"
+            "time": "2016-03-22T10:58:23+00:00"
+        },
+        {
+            "name": "ampersand/magento-developer-mode",
+            "version": "0.1.1",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:AmpersandHQ/magento-developer-mode.git",
+                "reference": "514802f0ea8c501b0c4b9f14ac99bf9ad79a1a0a"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://composer.ampersandweb.co.uk/dist/ampersand-magento-developer-mode-0.1.1-80d7ff.zip",
+                "reference": "514802f0ea8c501b0c4b9f14ac99bf9ad79a1a0a",
+                "shasum": "791b7bcedf7de0e5c36666ef2255dac193e2c884"
+            },
+            "bin": [
+                "magento-developer-mode-toggle"
+            ],
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "magento-developer-mode.php"
+                ]
+            },
+            "description": "A require-dev dependency to force magento 1 into developer mode",
+            "time": "2017-01-19T13:53:40+00:00"
         },
         {
             "name": "doctrine/instantiator",
@@ -5331,7 +5356,7 @@
                 "constructor",
                 "instantiate"
             ],
-            "time": "2015-06-14 21:17:01"
+            "time": "2015-06-14T21:17:01+00:00"
         },
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -5380,7 +5405,7 @@
                     "email": "mike.vanriel@naenius.com"
                 }
             ],
-            "time": "2015-02-03 12:10:50"
+            "time": "2015-02-03T12:10:50+00:00"
         },
         {
             "name": "phpspec/prophecy",
@@ -5442,7 +5467,7 @@
                 "spy",
                 "stub"
             ],
-            "time": "2016-06-07 08:13:47"
+            "time": "2016-06-07T08:13:47+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -5504,7 +5529,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2015-10-06 15:47:00"
+            "time": "2015-10-06T15:47:00+00:00"
         },
         {
             "name": "phpunit/php-file-iterator",
@@ -5551,7 +5576,7 @@
                 "filesystem",
                 "iterator"
             ],
-            "time": "2015-06-21 13:08:43"
+            "time": "2015-06-21T13:08:43+00:00"
         },
         {
             "name": "phpunit/php-text-template",
@@ -5592,7 +5617,7 @@
             "keywords": [
                 "template"
             ],
-            "time": "2015-06-21 13:50:34"
+            "time": "2015-06-21T13:50:34+00:00"
         },
         {
             "name": "phpunit/php-timer",
@@ -5636,7 +5661,7 @@
             "keywords": [
                 "timer"
             ],
-            "time": "2016-05-12 18:03:57"
+            "time": "2016-05-12T18:03:57+00:00"
         },
         {
             "name": "phpunit/php-token-stream",
@@ -5685,7 +5710,7 @@
             "keywords": [
                 "tokenizer"
             ],
-            "time": "2015-09-15 10:49:45"
+            "time": "2015-09-15T10:49:45+00:00"
         },
         {
             "name": "phpunit/phpunit",
@@ -5757,7 +5782,7 @@
                 "testing",
                 "xunit"
             ],
-            "time": "2016-07-21 06:48:14"
+            "time": "2016-07-21T06:48:14+00:00"
         },
         {
             "name": "phpunit/phpunit-mock-objects",
@@ -5813,7 +5838,7 @@
                 "mock",
                 "xunit"
             ],
-            "time": "2015-10-02 06:51:40"
+            "time": "2015-10-02T06:51:40+00:00"
         },
         {
             "name": "sebastian/comparator",
@@ -5877,7 +5902,7 @@
                 "compare",
                 "equality"
             ],
-            "time": "2015-07-26 15:48:44"
+            "time": "2015-07-26T15:48:44+00:00"
         },
         {
             "name": "sebastian/diff",
@@ -5929,7 +5954,7 @@
             "keywords": [
                 "diff"
             ],
-            "time": "2015-12-08 07:14:41"
+            "time": "2015-12-08T07:14:41+00:00"
         },
         {
             "name": "sebastian/environment",
@@ -5979,7 +6004,7 @@
                 "environment",
                 "hhvm"
             ],
-            "time": "2016-08-18 05:49:44"
+            "time": "2016-08-18T05:49:44+00:00"
         },
         {
             "name": "sebastian/exporter",
@@ -6046,7 +6071,7 @@
                 "export",
                 "exporter"
             ],
-            "time": "2016-06-17 09:04:28"
+            "time": "2016-06-17T09:04:28+00:00"
         },
         {
             "name": "sebastian/global-state",
@@ -6097,7 +6122,7 @@
             "keywords": [
                 "global state"
             ],
-            "time": "2015-10-12 03:26:01"
+            "time": "2015-10-12T03:26:01+00:00"
         },
         {
             "name": "sebastian/recursion-context",
@@ -6150,7 +6175,7 @@
             ],
             "description": "Provides functionality to recursively process PHP variables",
             "homepage": "http://www.github.com/sebastianbergmann/recursion-context",
-            "time": "2015-11-11 19:50:13"
+            "time": "2015-11-11T19:50:13+00:00"
         },
         {
             "name": "sebastian/version",
@@ -6185,7 +6210,7 @@
             ],
             "description": "Library that helps with managing the version number of Git-hosted PHP projects",
             "homepage": "https://github.com/sebastianbergmann/version",
-            "time": "2015-06-21 13:59:46"
+            "time": "2015-06-21T13:59:46+00:00"
         },
         {
             "name": "symfony/yaml",
@@ -6234,7 +6259,7 @@
             ],
             "description": "Symfony Yaml Component",
             "homepage": "https://symfony.com",
-            "time": "2016-07-17 09:06:15"
+            "time": "2016-07-17T09:06:15+00:00"
         }
     ],
     "aliases": [],
