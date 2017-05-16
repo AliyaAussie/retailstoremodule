@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "92b87c83e7adcf183d46cd0f944ee8ae",
+    "content-hash": "1213860da713793b5eafa64591bf2efc",
     "packages": [
         {
             "name": "ampersand/magento-composer-installer",
@@ -102,16 +102,16 @@
         },
         {
             "name": "convenient/setupscriptsdisabler",
-            "version": "0.1.4",
+            "version": "0.2.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/convenient/SetupScriptsDisabler.git",
-                "reference": "db3ad376a0c9a694e8219e21a968e296dba27c22"
+                "reference": "a735a79caaff5d3bd05d1402ea8e58739424d758"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/convenient/SetupScriptsDisabler/zipball/db3ad376a0c9a694e8219e21a968e296dba27c22",
-                "reference": "db3ad376a0c9a694e8219e21a968e296dba27c22",
+                "url": "https://api.github.com/repos/convenient/SetupScriptsDisabler/zipball/a735a79caaff5d3bd05d1402ea8e58739424d758",
+                "reference": "a735a79caaff5d3bd05d1402ea8e58739424d758",
                 "shasum": ""
             },
             "suggest": {
@@ -130,10 +130,10 @@
             "description": "Disables automatic application of setup scripts in Magento",
             "homepage": "https://github.com/convenient/SetupScriptsDisabler",
             "support": {
-                "source": "https://github.com/convenient/SetupScriptsDisabler/tree/0.1.4",
+                "source": "https://github.com/convenient/SetupScriptsDisabler/tree/0.2.0",
                 "issues": "https://github.com/convenient/SetupScriptsDisabler/issues"
             },
-            "time": "2015-04-16T09:00:05+00:00"
+            "time": "2017-01-19T13:21:43+00:00"
         },
         {
             "name": "joshdifabio/magento1-composer-bridge",

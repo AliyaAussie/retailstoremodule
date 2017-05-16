@@ -22,7 +22,7 @@
         "joshdifabio/magento1-composer-bridge": "~1.0",
         "joshdifabio/magento1-module-loader": "~1.0-alpha1",
         "ampersand/magento-composer-installer": "~1.0-dev",
-        "convenient/setupscriptsdisabler": "~0.1",
+        "convenient/setupscriptsdisabler": "~0.2",
 
         "magento/javascript": "1.14.2.2",
         "magento/libs": "1.14.2.2-patch4",
