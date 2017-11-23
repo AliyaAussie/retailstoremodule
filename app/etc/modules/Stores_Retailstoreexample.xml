@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+   <modules>
+       <stores_retailstoreexample>
+           <active>true</active>
+           <codePool>local</codePool>
+           <depends>
+               <Stores_RetailDirectory/>
+           </depends>
+       </stores_retailstoreexample>
+   </modules>
+</config>

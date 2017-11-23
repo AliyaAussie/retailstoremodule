@@ -24,6 +24,8 @@
         "ampersand/magento-composer-installer": "~1.0-dev",
         "convenient/setupscriptsdisabler": "~0.2",
 
+        "aliyaaussie/retailstoremodule": "~1.0",
+        
         "magento/javascript": "1.14.2.2",
         "magento/libs": "1.14.2.2-patch4",
         "magento/shell": "1.14.2.2",
