@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<layout>
+    <stores_retaildirectory_index_index>
+        <reference name="content">
+            <block type="stores_retaildirectory/list" name="stores.retaildirectory.list" template="stores_retaildirectory/list.phtml"/>
+        </reference>
+    </stores_retaildirectory_index_index>
+
+    <stores_retaildirectory_index_view>
+        <reference name="content">
+            <block type="stores_retaildirectory/view" name="stores.retaildirectory.view" template="stores_retaildirectory/view.phtml"/>
+        </reference>
+    </stores_retaildirectory_index_view>
+
+    <catalog_product_view>
+        <reference name="product.info">
+            <block type="stores_retaildirectory/catalog_product_view_link" name="catalog.product.view.other.link" as="other" template="stores_retaildirectory/catalog/product/view/link.phtml" />
+        </reference>
+    </catalog_product_view>
+
+</layout>

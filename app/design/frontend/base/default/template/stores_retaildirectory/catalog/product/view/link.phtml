@@ -1,0 +1,9 @@
+<?php $retailstore = $this->getRetailStore(); ?>
+
+
+<?php if ($retailstore) : ?>
+
+<h3><strong><?php echo $this->__('Retail Store'); ?></strong></h3>
+
+<p style="font-size: 25px"><a href="<?php echo $this->helper('stores_retaildirectory/retailstore')->getRetailStoreUrl($retailstore); ?>" title="<?php echo $this->escapeHtml($retailstore->getName()); ?>"><?php echo $retailstore->getName(); ?></a></p>
+<?php endif; ?>

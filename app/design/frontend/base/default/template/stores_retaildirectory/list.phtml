@@ -1,0 +1,15 @@
+<h1><?php echo $this->__('Retail Stores'); ?></h1>
+<?php $retailstoreCollection = $this->getRetailStoreCollection(); ?>
+<?php if ($retailstoreCollection->count() > 0): ?>
+
+    <ul>
+        <?php foreach ($retailstoreCollection as $_retailstore): ?>
+            <li><a href="<?php echo $this->helper('stores_retaildirectory/retailstore')->getRetailStoreUrl($_retailstore);?>" title="<?php echo $this->escapeHtml($_retailstore->getName()); ?>" ><?php echo $_retailstore->getName();?></a></li>
+        <?php endforeach; ?>
+    </ul>
+
+<?php else: ?>
+
+    <?php echo $this->__('There are no retail stores to display at this time.'); ?>
+
+<?php endif; ?>

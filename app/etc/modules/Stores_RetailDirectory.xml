@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+        <config>
+     <modules>
+         <Stores_RetailDirectory>
+             <active>true</active>
+             <codePool>community</codePool>
+         </Stores_RetailDirectory>
+     </modules>
+</config>
