@@ -1,12 +1,6 @@
 {
   "name" : "aliyaaussie/retailstoremodule",
   "type": "ampersand-magento",
-  "authors" : [
-    {
-      "name": "Aliya Tulyakova", 
-      "email": "at@amp.co"
-    }
-    ],
   "require": {
         "ampersand/magento-installer": "1.*"
     }
