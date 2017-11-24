@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+      <Stores_RetailDirectory>
+          <version>0.1.1</version>
+      </Stores_RetailDirectory>
+  </modules>
+    <global>
+
+        <blocks>
+            <stores_retaildirectory_adminhtml>
+                <class>Stores_RetailDirectory_Block_Adminhtml</class>
+            </stores_retaildirectory_adminhtml>
+            <stores_retaildirectory>
+                <class>Stores_RetailDirectory_Block</class>
+            </stores_retaildirectory>
+        </blocks>
+
+        <!--
+        Add a helper definition for use in adminhtml.xml menu translation.
+        -->
+        <helpers>
+            <stores_retaildirectory>
+                <class>Stores_RetailDirectory_Helper</class>
+            </stores_retaildirectory>
+        </helpers>
+
+        <models>
+            <!--
+            This is the Model alias referred to in install-0.0.1.php.
+            -->
+            <stores_retaildirectory>
+                <class>Stores_RetailDirectory_Model</class>
+                <!--
+                This tells Magento where to find
+                resource materials for this module.
+                -->
+                <resourceModel>stores_retaildirectory_resource</resourceModel>
+            </stores_retaildirectory>
+
+            <stores_retaildirectory_resource>
+                <class>Stores_RetailDirectory_Model_Resource</class>
+                <entities>
+                    <!--
+                  This is the table alias referred to in install-0.0.1.php.
+                  -->
+                    <retailstore>
+                        <!-- The name of the database table -->
+                        <table>stores_retaildirectory_retailstore</table>
+                    </retailstore>
+                </entities>
+            </stores_retaildirectory_resource>
+        </models>
+
+        <resources>
+            <!--
+            This must match our folder name in the module sql folder.
+            -->
+            <stores_retaildirectory_setup>
+                <setup>
+                    <!--
+                    This defines which module the setup
+                    scripts in this location belong to.
+                    -->
+                    <module>Stores_RetailDirectory</module>
+                    <class>Mage_Eav_Model_Entity_Setup</class>
+                </setup>
+                <connection>
+                    <use>core_setup</use>
+                </connection>
+            </stores_retaildirectory_setup>
+        </resources>
+    </global>
+
+    <admin>
+        <routers>
+            <stores_retaildirectory_admin>
+                <use>admin</use>
+                <args>
+                    <module>Stores_RetailDirectory_Adminhtml</module>
+                    <frontName>retailstore-directory-admin</frontName>
+                </args>
+            </stores_retaildirectory_admin>
+        </routers>
+    </admin>
+
+    <frontend>
+        <layout>
+            <updates>
+                <stores_retaildirectory>
+                    <file>stores_retaildirectory.xml</file>
+                </stores_retaildirectory>
+            </updates>
+        </layout>
+        <routers>
+            <stores_retaildirectory>
+                <use>standard</use>
+                <args>
+                    <module>Stores_RetailDirectory</module>
+                    <frontName>retailstore</frontName>
+                </args>
+            </stores_retaildirectory>
+        </routers>
+    </frontend>
+
+</config>
