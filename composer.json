@@ -8,7 +8,7 @@
     }
     ],
   "require": {
-        "aliyaaussie/magento-installer": "1.*"
+        "aliyaaussie/retailstoremodule": "1.*"
     }
 }
 
