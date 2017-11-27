@@ -1,6 +1,6 @@
 {
   "name" : "aliyaaussie/retailstoremodule",
-  "type": "magento-module",
+  "type": "ampersand-magento",
   "require": {
         "ampersand/magento-installer": "1.*"
     }
