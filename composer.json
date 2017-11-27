@@ -1,5 +1,5 @@
 {
-  "name" : "aliyaaussie/retailstoremodule",
+  "name" : "stores/retailstoremodule",
   "type": "stores-magento",
   "require": {
         "stores/magento-installer": "1.*"
