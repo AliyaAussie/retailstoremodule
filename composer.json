@@ -1,8 +1,8 @@
 {
   "name" : "aliyaaussie/retailstoremodule",
-  "type": "ampersand-magento",
+  "type": "magento-module",
   "require": {
-        "retaildirectory/magento-composer-installer": "~1.0-dev",
+        "magento-hackathon/magento-composer-installer": "*"
     }
 }
 
