@@ -3,7 +3,7 @@
   "type": "ampersand-magento",
   "minimum-stability" : "dev",
   "require": {
-        "ampersand/magento-installer": "dev"
+        "ampersand/magento-installer": "dev-master"
     }
 }
 
