@@ -2,7 +2,7 @@
   "name" : "aliyaaussie/retailstoremodule",
   "type": "magento-module",
   "require": {
-        "magento-hackathon/magento-composer-installer": "*"
+        "aliyaaussie/retailstoremodule": "*"
     }
 }
 
