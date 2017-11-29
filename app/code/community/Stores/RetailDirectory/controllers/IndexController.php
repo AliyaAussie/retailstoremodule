@@ -30,5 +30,8 @@ class Stores_RetailDirectory_IndexController extends Mage_Core_Controller_Front_
 
         Mage::register('current_retailstore', $retailstore);
         $this->loadLayout()->renderLayout();
+
+
+
     }
 }

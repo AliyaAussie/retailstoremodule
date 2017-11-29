@@ -66,39 +66,34 @@ class Stores_RetailDirectory_Block_Adminhtml_Retailstore_Edit_Form extends Mage_
                 'input' => 'text',
                 'required' => true,
             ),
-            'openning_hours' => array(
-                'label' =>$this->__('Openning Hours'),
-                'input' => 'text',
-                'required' => true,
-            ),
             'daily_open' => array(
                 'label' =>$this->__('Daily open'),
-                'input' => 'time',
+                'input' => 'text',
                 'required' => true,
             ),
             'daily_closed' => array(
                 'label' => $this->__('Daily closed'),
-                'input' => 'time',
+                'input' => 'text',
                 'required' => true,
             ),
             'sat_open' => array(
                 'label' => $this->__('Saturday open'),
-                'input' => 'time',
+                'input' => 'text',
                 'required' => true
             ),
             'sat_closed' => array(
                 'label' => $this->__('Saturday closed'),
-                'input' => 'time',
+                'input' => 'text',
                 'required' => true
             ),
             'sun_open' => array(
                 'label' => $this->__('Sunday open'),
-                'input' => 'time',
+                'input' => 'text',
                 'required' => true
             ),
             'sun_closed' => array(
                 'label' => $this->__('Sunday closed'),
-                'input' => 'time',
+                'input' => 'text',
                 'required' => true
             ),
         ));

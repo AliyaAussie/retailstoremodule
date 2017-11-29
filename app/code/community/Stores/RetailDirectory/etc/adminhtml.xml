@@ -21,6 +21,11 @@
                     -->
                   <action>stores_retaildirectory_admin/retailstore</action>
               </retailstore>
+              <status module="stores_retaildirectory">
+                  <title>Opening Hours</title>
+                  <sort_order>11</sort_order>
+                  <action>stores_retaildirectory_admin/openinghours</action>
+              </status>
           </children>
       </stores_retaildirectory>
   </menu>
@@ -37,7 +42,11 @@
                         <retailstore translate="title" module="stores_retaildirectory">
                             <title>Manage Retail Stores</title>
                         </retailstore>
+                        <status module="stores_retaildirectory">
+                            <title>Opening Hours</title>
+                        </status>
                     </children>
+
                 </children>
             </admin>
         </resources>

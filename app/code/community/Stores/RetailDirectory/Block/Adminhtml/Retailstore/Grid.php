@@ -74,12 +74,6 @@ class Stores_RetailDirectory_Block_Adminhtml_Retailstore_Grid extends Mage_Admin
             'index' => 'longitude',
         ));
 
-        $this->addColumn('openning_hours', array(
-            'header' => $this->_getHepler()->__('Opening Hours'),
-            'type' => 'text',
-            'index' => 'opening_hours',
-        ));
-
         $this->addColumn('daily_open', array(
             'header' => $this->_getHepler()->__('Daily open'),
             'type' => 'time',

@@ -20,5 +20,6 @@ class Stores_RetailDirectory_Model_Resource_Retailstore_Collection extends Mage_
             'stores_retaildirectory/retailstore',
             'stores_retaildirectory/retailstore'
         );
+
     }
 }

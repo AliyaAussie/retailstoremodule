@@ -15,5 +15,7 @@ class Stores_RetailDirectory_Model_Resource_Retailstore extends Mage_Core_Model_
          * and locating children of <entities/>.
          */
         $this->_init('stores_retaildirectory/retailstore', 'entity_id');
+
+
     }
 }

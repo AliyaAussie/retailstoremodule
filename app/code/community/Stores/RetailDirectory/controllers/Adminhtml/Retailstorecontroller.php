@@ -22,6 +22,8 @@ class Stores_RetailDirectory_Adminhtml_Retailstorecontroller extends Mage_Adminh
         $this->loadLayout()
             ->_addContent($retailstoreBlock)
             ->renderLayout();
+
+
     }
 
     /**
